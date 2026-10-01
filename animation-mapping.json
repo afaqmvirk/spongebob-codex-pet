@@ -1,0 +1,1181 @@
+{
+  "spriteVersionNumber": 1,
+  "cell_size": [
+    192,
+    208
+  ],
+  "atlas_size": [
+    1536,
+    1872
+  ],
+  "artwork_source": "Six user-provided GIFs; no generated artwork",
+  "adaptation": "User authorized a simplified pet using existing frames, including reused poses across states.",
+  "limitations": [
+    "Movement uses turning/leaning poses rather than a new walking cycle.",
+    "Greeting uses flower-costume gestures; failed uses the frightened ghost reaction.",
+    "Waiting uses tired hat gestures; working uses guitar playing; review uses seated blinking.",
+    "Version 1 has nine animation rows and no sixteen-direction pointer gaze."
+  ],
+  "rows": [
+    {
+      "row": 0,
+      "state": "idle",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 280,
+          "source_gif": 1,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-001.png",
+          "frame_file": "frames/idle/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 110,
+          "source_gif": 1,
+          "source_frame_number": 2,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-002.png",
+          "frame_file": "frames/idle/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 110,
+          "source_gif": 1,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-003.png",
+          "frame_file": "frames/idle/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 140,
+          "source_gif": 1,
+          "source_frame_number": 4,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-004.png",
+          "frame_file": "frames/idle/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 140,
+          "source_gif": 1,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-005.png",
+          "frame_file": "frames/idle/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 320,
+          "source_gif": 1,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-01-seated/frame-001.png",
+          "frame_file": "frames/idle/05.png"
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "state": "running-right",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 4,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-004.png",
+          "frame_file": "frames/running-right/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-005.png",
+          "frame_file": "frames/running-right/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 6,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-006.png",
+          "frame_file": "frames/running-right/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 7,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-007.png",
+          "frame_file": "frames/running-right/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 6,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-006.png",
+          "frame_file": "frames/running-right/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-005.png",
+          "frame_file": "frames/running-right/05.png"
+        },
+        {
+          "column": 6,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 4,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-004.png",
+          "frame_file": "frames/running-right/06.png"
+        },
+        {
+          "column": 7,
+          "duration_ms": 220,
+          "source_gif": 2,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/01-standing/frame-003.png",
+          "frame_file": "frames/running-right/07.png"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "state": "running-left",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 4,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-004.png",
+          "frame_file": "frames/running-left/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 5,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-005.png",
+          "frame_file": "frames/running-left/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 6,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-006.png",
+          "frame_file": "frames/running-left/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 7,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-007.png",
+          "frame_file": "frames/running-left/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 6,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-006.png",
+          "frame_file": "frames/running-left/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 5,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-005.png",
+          "frame_file": "frames/running-left/05.png"
+        },
+        {
+          "column": 6,
+          "duration_ms": 120,
+          "source_gif": 2,
+          "source_frame_number": 4,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/02-turning-right/frame-004.png",
+          "frame_file": "frames/running-left/06.png"
+        },
+        {
+          "column": 7,
+          "duration_ms": 220,
+          "source_gif": 2,
+          "source_frame_number": 3,
+          "horizontal_mirror": true,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/01-standing/frame-003.png",
+          "frame_file": "frames/running-left/07.png"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "state": "waving",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 140,
+          "source_gif": 5,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.68,
+            "actual_scale": [
+              0.6794871794871795,
+              0.68
+            ],
+            "source_anchor_x": 117.0,
+            "source_baseline_y": 195,
+            "source_canvas_size": [
+              234,
+              200
+            ],
+            "resized_canvas_size": [
+              159,
+              136
+            ],
+            "canvas_offset": [
+              16,
+              67
+            ],
+            "output_sprite_bbox": [
+              44,
+              70,
+              147,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "complete costume silhouette; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-05-flower-turns/original-pngs/frame-005.png",
+          "frame_file": "frames/waving/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 140,
+          "source_gif": 5,
+          "source_frame_number": 6,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.68,
+            "actual_scale": [
+              0.6794871794871795,
+              0.68
+            ],
+            "source_anchor_x": 130.0,
+            "source_baseline_y": 200,
+            "source_canvas_size": [
+              234,
+              200
+            ],
+            "resized_canvas_size": [
+              159,
+              136
+            ],
+            "canvas_offset": [
+              8,
+              64
+            ],
+            "output_sprite_bbox": [
+              41,
+              69,
+              151,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "complete costume silhouette; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-05-flower-turns/original-pngs/frame-006.png",
+          "frame_file": "frames/waving/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 140,
+          "source_gif": 5,
+          "source_frame_number": 7,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.68,
+            "actual_scale": [
+              0.6794871794871795,
+              0.68
+            ],
+            "source_anchor_x": 126.0,
+            "source_baseline_y": 200,
+            "source_canvas_size": [
+              234,
+              200
+            ],
+            "resized_canvas_size": [
+              159,
+              136
+            ],
+            "canvas_offset": [
+              10,
+              64
+            ],
+            "output_sprite_bbox": [
+              45,
+              73,
+              146,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "complete costume silhouette; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-05-flower-turns/original-pngs/frame-007.png",
+          "frame_file": "frames/waving/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 280,
+          "source_gif": 5,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.68,
+            "actual_scale": [
+              0.6794871794871795,
+              0.68
+            ],
+            "source_anchor_x": 117.0,
+            "source_baseline_y": 195,
+            "source_canvas_size": [
+              234,
+              200
+            ],
+            "resized_canvas_size": [
+              159,
+              136
+            ],
+            "canvas_offset": [
+              16,
+              67
+            ],
+            "output_sprite_bbox": [
+              44,
+              70,
+              147,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "complete costume silhouette; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-05-flower-turns/original-pngs/frame-005.png",
+          "frame_file": "frames/waving/03.png"
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "state": "jumping",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 140,
+          "source_gif": 2,
+          "source_frame_number": 51,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/15-squatting/frame-051.png",
+          "frame_file": "frames/jumping/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 140,
+          "source_gif": 2,
+          "source_frame_number": 52,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/15-squatting/frame-052.png",
+          "frame_file": "frames/jumping/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 140,
+          "source_gif": 2,
+          "source_frame_number": 48,
+          "horizontal_mirror": false,
+          "vertical_offset": -32,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/13-jumping-arms-up/frame-048.png",
+          "frame_file": "frames/jumping/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 140,
+          "source_gif": 2,
+          "source_frame_number": 49,
+          "horizontal_mirror": false,
+          "vertical_offset": -12,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/13-jumping-arms-up/frame-049.png",
+          "frame_file": "frames/jumping/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 280,
+          "source_gif": 2,
+          "source_frame_number": 51,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-resized-by-pose/gif-02-by-pose/15-squatting/frame-051.png",
+          "frame_file": "frames/jumping/04.png"
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "state": "failed",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              143,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-001.png",
+          "frame_file": "frames/failed/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              143,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-003.png",
+          "frame_file": "frames/failed/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 6,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              143,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-006.png",
+          "frame_file": "frames/failed/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 9,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              163,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-009.png",
+          "frame_file": "frames/failed/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 13,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              91,
+              182,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-013.png",
+          "frame_file": "frames/failed/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 17,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              71,
+              186,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-017.png",
+          "frame_file": "frames/failed/05.png"
+        },
+        {
+          "column": 6,
+          "duration_ms": 140,
+          "source_gif": 6,
+          "source_frame_number": 20,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              143,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-020.png",
+          "frame_file": "frames/failed/06.png"
+        },
+        {
+          "column": 7,
+          "duration_ms": 240,
+          "source_gif": 6,
+          "source_frame_number": 25,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.688,
+            "actual_scale": [
+              0.688,
+              0.688
+            ],
+            "source_anchor_x": 106.5,
+            "source_baseline_y": 231,
+            "source_canvas_size": [
+              250,
+              250
+            ],
+            "resized_canvas_size": [
+              172,
+              172
+            ],
+            "canvas_offset": [
+              23,
+              41
+            ],
+            "output_sprite_bbox": [
+              49,
+              102,
+              143,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "fixed seated character centre and feet; ghost excluded"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/original-pngs/frame-025.png",
+          "frame_file": "frames/failed/07.png"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "state": "waiting",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 150,
+          "source_gif": 3,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 349.5,
+            "source_baseline_y": 462,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -26,
+              38
+            ],
+            "output_sprite_bbox": [
+              50,
+              77,
+              141,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-001.png",
+          "frame_file": "frames/waiting/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 150,
+          "source_gif": 3,
+          "source_frame_number": 2,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 319.0,
+            "source_baseline_y": 456,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -16,
+              40
+            ],
+            "output_sprite_bbox": [
+              54,
+              77,
+              151,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-002.png",
+          "frame_file": "frames/waiting/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 150,
+          "source_gif": 3,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 286.0,
+            "source_baseline_y": 462,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -4,
+              38
+            ],
+            "output_sprite_bbox": [
+              54,
+              77,
+              171,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-003.png",
+          "frame_file": "frames/waiting/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 150,
+          "source_gif": 3,
+          "source_frame_number": 4,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 277.5,
+            "source_baseline_y": 462,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -1,
+              38
+            ],
+            "output_sprite_bbox": [
+              51,
+              79,
+              174,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-004.png",
+          "frame_file": "frames/waiting/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 150,
+          "source_gif": 3,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 286.0,
+            "source_baseline_y": 462,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -4,
+              38
+            ],
+            "output_sprite_bbox": [
+              54,
+              77,
+              171,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-003.png",
+          "frame_file": "frames/waiting/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 260,
+          "source_gif": 3,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "registration": {
+            "requested_scale": 0.35,
+            "actual_scale": [
+              0.35,
+              0.35
+            ],
+            "source_anchor_x": 349.5,
+            "source_baseline_y": 462,
+            "source_canvas_size": [
+              500,
+              500
+            ],
+            "resized_canvas_size": [
+              175,
+              175
+            ],
+            "canvas_offset": [
+              -26,
+              38
+            ],
+            "output_sprite_bbox": [
+              50,
+              77,
+              141,
+              200
+            ],
+            "resampling": "nearest neighbour",
+            "anchor_method": "yellow torso above source y=330; common row scale"
+          },
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-03-tired-hat/original-pngs/frame-001.png",
+          "frame_file": "frames/waiting/05.png"
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "state": "running",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 120,
+          "source_gif": 4,
+          "source_frame_number": 1,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-001.png",
+          "frame_file": "frames/running/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 120,
+          "source_gif": 4,
+          "source_frame_number": 2,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-002.png",
+          "frame_file": "frames/running/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 120,
+          "source_gif": 4,
+          "source_frame_number": 3,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-003.png",
+          "frame_file": "frames/running/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 120,
+          "source_gif": 4,
+          "source_frame_number": 4,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-004.png",
+          "frame_file": "frames/running/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 120,
+          "source_gif": 4,
+          "source_frame_number": 5,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-005.png",
+          "frame_file": "frames/running/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 220,
+          "source_gif": 4,
+          "source_frame_number": 7,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-04-flower-dance/pet-size-pngs/frame-007.png",
+          "frame_file": "frames/running/05.png"
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "state": "review",
+      "frames": [
+        {
+          "column": 0,
+          "duration_ms": 150,
+          "source_gif": 6,
+          "source_frame_number": 25,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-025.png",
+          "frame_file": "frames/review/00.png"
+        },
+        {
+          "column": 1,
+          "duration_ms": 150,
+          "source_gif": 6,
+          "source_frame_number": 26,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-026.png",
+          "frame_file": "frames/review/01.png"
+        },
+        {
+          "column": 2,
+          "duration_ms": 150,
+          "source_gif": 6,
+          "source_frame_number": 27,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-027.png",
+          "frame_file": "frames/review/02.png"
+        },
+        {
+          "column": 3,
+          "duration_ms": 150,
+          "source_gif": 6,
+          "source_frame_number": 28,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-028.png",
+          "frame_file": "frames/review/03.png"
+        },
+        {
+          "column": 4,
+          "duration_ms": 150,
+          "source_gif": 6,
+          "source_frame_number": 27,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-027.png",
+          "frame_file": "frames/review/04.png"
+        },
+        {
+          "column": 5,
+          "duration_ms": 280,
+          "source_gif": 6,
+          "source_frame_number": 29,
+          "horizontal_mirror": false,
+          "vertical_offset": 0,
+          "original_extraction_reference": "spongey-boy-extra-frames/gif-06-seated-expressions/pet-size-pngs/frame-029.png",
+          "frame_file": "frames/review/05.png"
+        }
+      ]
+    }
+  ],
+  "sizing_revision": {
+    "waiting": "One shared scale; centre torso, excluding the reaching arm.",
+    "waving": "Flower costume resized to 68 percent of its source size.",
+    "failed": "Fixed character registration, independent of the ghost; shared scale.",
+    "unchanged_states": [
+      "idle",
+      "running-right",
+      "running-left",
+      "jumping",
+      "running",
+      "review"
+    ]
+  },
+  "original_extraction_reference_note": "Provenance from the original extraction workspace; prepared editable frame_file paths are included in this repository."
+}

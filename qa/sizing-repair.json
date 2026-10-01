@@ -1,0 +1,624 @@
+{
+  "ok": true,
+  "changed_frames": [
+    {
+      "state": "waving",
+      "column": 0,
+      "source_frame_number": 5,
+      "requested_scale": 0.68,
+      "actual_scale": [
+        0.6794871794871795,
+        0.68
+      ],
+      "source_anchor_x": 117.0,
+      "source_baseline_y": 195,
+      "source_canvas_size": [
+        234,
+        200
+      ],
+      "resized_canvas_size": [
+        159,
+        136
+      ],
+      "canvas_offset": [
+        16,
+        67
+      ],
+      "output_sprite_bbox": [
+        44,
+        70,
+        147,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "complete costume silhouette; common row scale"
+    },
+    {
+      "state": "waving",
+      "column": 1,
+      "source_frame_number": 6,
+      "requested_scale": 0.68,
+      "actual_scale": [
+        0.6794871794871795,
+        0.68
+      ],
+      "source_anchor_x": 130.0,
+      "source_baseline_y": 200,
+      "source_canvas_size": [
+        234,
+        200
+      ],
+      "resized_canvas_size": [
+        159,
+        136
+      ],
+      "canvas_offset": [
+        8,
+        64
+      ],
+      "output_sprite_bbox": [
+        41,
+        69,
+        151,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "complete costume silhouette; common row scale"
+    },
+    {
+      "state": "waving",
+      "column": 2,
+      "source_frame_number": 7,
+      "requested_scale": 0.68,
+      "actual_scale": [
+        0.6794871794871795,
+        0.68
+      ],
+      "source_anchor_x": 126.0,
+      "source_baseline_y": 200,
+      "source_canvas_size": [
+        234,
+        200
+      ],
+      "resized_canvas_size": [
+        159,
+        136
+      ],
+      "canvas_offset": [
+        10,
+        64
+      ],
+      "output_sprite_bbox": [
+        45,
+        73,
+        146,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "complete costume silhouette; common row scale"
+    },
+    {
+      "state": "waving",
+      "column": 3,
+      "source_frame_number": 5,
+      "requested_scale": 0.68,
+      "actual_scale": [
+        0.6794871794871795,
+        0.68
+      ],
+      "source_anchor_x": 117.0,
+      "source_baseline_y": 195,
+      "source_canvas_size": [
+        234,
+        200
+      ],
+      "resized_canvas_size": [
+        159,
+        136
+      ],
+      "canvas_offset": [
+        16,
+        67
+      ],
+      "output_sprite_bbox": [
+        44,
+        70,
+        147,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "complete costume silhouette; common row scale"
+    },
+    {
+      "state": "failed",
+      "column": 0,
+      "source_frame_number": 1,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        143,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 1,
+      "source_frame_number": 3,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        143,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 2,
+      "source_frame_number": 6,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        143,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 3,
+      "source_frame_number": 9,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        163,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 4,
+      "source_frame_number": 13,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        91,
+        182,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 5,
+      "source_frame_number": 17,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        71,
+        186,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 6,
+      "source_frame_number": 20,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        143,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "failed",
+      "column": 7,
+      "source_frame_number": 25,
+      "requested_scale": 0.688,
+      "actual_scale": [
+        0.688,
+        0.688
+      ],
+      "source_anchor_x": 106.5,
+      "source_baseline_y": 231,
+      "source_canvas_size": [
+        250,
+        250
+      ],
+      "resized_canvas_size": [
+        172,
+        172
+      ],
+      "canvas_offset": [
+        23,
+        41
+      ],
+      "output_sprite_bbox": [
+        49,
+        102,
+        143,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "fixed seated character centre and feet; ghost excluded"
+    },
+    {
+      "state": "waiting",
+      "column": 0,
+      "source_frame_number": 1,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 349.5,
+      "source_baseline_y": 462,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -26,
+        38
+      ],
+      "output_sprite_bbox": [
+        50,
+        77,
+        141,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    },
+    {
+      "state": "waiting",
+      "column": 1,
+      "source_frame_number": 2,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 319.0,
+      "source_baseline_y": 456,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -16,
+        40
+      ],
+      "output_sprite_bbox": [
+        54,
+        77,
+        151,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    },
+    {
+      "state": "waiting",
+      "column": 2,
+      "source_frame_number": 3,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 286.0,
+      "source_baseline_y": 462,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -4,
+        38
+      ],
+      "output_sprite_bbox": [
+        54,
+        77,
+        171,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    },
+    {
+      "state": "waiting",
+      "column": 3,
+      "source_frame_number": 4,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 277.5,
+      "source_baseline_y": 462,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -1,
+        38
+      ],
+      "output_sprite_bbox": [
+        51,
+        79,
+        174,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    },
+    {
+      "state": "waiting",
+      "column": 4,
+      "source_frame_number": 3,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 286.0,
+      "source_baseline_y": 462,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -4,
+        38
+      ],
+      "output_sprite_bbox": [
+        54,
+        77,
+        171,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    },
+    {
+      "state": "waiting",
+      "column": 5,
+      "source_frame_number": 1,
+      "requested_scale": 0.35,
+      "actual_scale": [
+        0.35,
+        0.35
+      ],
+      "source_anchor_x": 349.5,
+      "source_baseline_y": 462,
+      "source_canvas_size": [
+        500,
+        500
+      ],
+      "resized_canvas_size": [
+        175,
+        175
+      ],
+      "canvas_offset": [
+        -26,
+        38
+      ],
+      "output_sprite_bbox": [
+        50,
+        77,
+        141,
+        200
+      ],
+      "resampling": "nearest neighbour",
+      "anchor_method": "yellow torso above source y=330; common row scale"
+    }
+  ],
+  "unchanged_frames_verified": [
+    "idle/00.png",
+    "idle/01.png",
+    "idle/02.png",
+    "idle/03.png",
+    "idle/04.png",
+    "idle/05.png",
+    "running-right/00.png",
+    "running-right/01.png",
+    "running-right/02.png",
+    "running-right/03.png",
+    "running-right/04.png",
+    "running-right/05.png",
+    "running-right/06.png",
+    "running-right/07.png",
+    "running-left/00.png",
+    "running-left/01.png",
+    "running-left/02.png",
+    "running-left/03.png",
+    "running-left/04.png",
+    "running-left/05.png",
+    "running-left/06.png",
+    "running-left/07.png",
+    "jumping/00.png",
+    "jumping/01.png",
+    "jumping/02.png",
+    "jumping/03.png",
+    "jumping/04.png",
+    "running/00.png",
+    "running/01.png",
+    "running/02.png",
+    "running/03.png",
+    "running/04.png",
+    "running/05.png",
+    "review/00.png",
+    "review/01.png",
+    "review/02.png",
+    "review/03.png",
+    "review/04.png",
+    "review/05.png"
+  ],
+  "no_generated_artwork": true,
+  "all_effects_fit_within_cell": true
+}

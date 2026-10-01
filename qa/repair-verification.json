@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "unchanged_rows": [
+    0,
+    1,
+    2,
+    4,
+    7,
+    8
+  ],
+  "png_webp_pixel_identity": true,
+  "all_cells_match_prepared_frames": true,
+  "waiting_common_scale": true,
+  "oops_fixed_character_registration": true,
+  "all_preview_frames_decoded": {
+    "animation-preview.gif": 125,
+    "sizing-preview.gif": 76,
+    "previews\\failed.gif": 8,
+    "previews\\idle.gif": 6,
+    "previews\\jumping.gif": 5,
+    "previews\\review.gif": 6,
+    "previews\\running-left.gif": 8,
+    "previews\\running-right.gif": 8,
+    "previews\\running.gif": 6,
+    "previews\\waiting.gif": 6,
+    "previews\\waving.gif": 4
+  }
+}

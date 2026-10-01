@@ -1,0 +1,7 @@
+{
+  "id": "spongey-boy",
+  "displayName": "Spongey Boy",
+  "description": "A pixel sponge companion who sits, dances, plays guitar, and reacts with your supplied GIF poses.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp"
+}

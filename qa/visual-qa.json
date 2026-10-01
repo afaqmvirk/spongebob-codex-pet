@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "reviewed_by": "independent visual QA worker /root/existing_pet_qa",
+  "reviewed_at_utc": "2026-10-01T21:37:53.075385+00:00",
+  "scope": "Sizing repair of waiting, greeting (waving), and Oops (failed) in the existing-frame v1 candidate",
+  "review_method": [
+    "Compared updated and previous contact sheets.",
+    "Viewed all 18 affected PNG frames individually at their native 192 by 208 cell resolution.",
+    "Compared selected previous waiting, greeting, and Oops frames at native resolution and inspected the focused sizing preview.",
+    "Independently compared source transforms, frame cells, unaffected rows, and decoded sprite formats."
+  ],
+  "visual_observations": {
+    "waiting": "Torso remains a consistent size and horizontal position through the reaching poses. Source pose changes remain visible without the previous artificial growth in the middle.",
+    "greeting": "Flower costume is visibly smaller and balanced with the other standing states. All four frames remain intact and readable.",
+    "oops": "Seated character remains centred in all eight frames while the intentional ghost moves independently. Hands, feet, and ghost remain inside the cell."
+  },
+  "checks": {
+    "affected_frames_reviewed": 18,
+    "all_affected_frames_match_documented_raw_source_transforms": true,
+    "all_affected_source_visible_pixels_preserved_without_clipping": true,
+    "waiting_shared_requested_scale": 0.35,
+    "waiting_full_artwork_heights_pixels": [
+      123,
+      123,
+      123,
+      121,
+      123,
+      123
+    ],
+    "waiting_registered_horizontal_anchor_range_pixels": [
+      95.65,
+      96.325
+    ],
+    "waiting_registered_horizontal_anchor_drift_pixels": 0.675,
+    "greeting_shared_requested_scale": 0.68,
+    "greeting_height_ratios_to_previous_frames": [
+      0.677,
+      0.686,
+      0.661,
+      0.677
+    ],
+    "greeting_registered_horizontal_anchor_range_pixels": [
+      95.5,
+      96.333333
+    ],
+    "oops_shared_scale": 0.688,
+    "oops_fixed_canvas_offset": [
+      23,
+      41
+    ],
+    "oops_registered_character_horizontal_anchor_pixels": 96.272,
+    "oops_registered_character_horizontal_anchor_drift_pixels": 0,
+    "oops_registered_baseline_pixels": 199.928,
+    "all_57_used_frames_nonempty_and_match_atlas_cells": true,
+    "minimum_cell_edge_clearance_pixels": 6,
+    "png_and_webp_decoded_rgba_pixels_identical": true,
+    "six_unaffected_rows_have_identical_atlas_pixels_frames_and_mapping": [
+      "idle",
+      "running-right",
+      "running-left",
+      "jumping",
+      "running",
+      "review"
+    ],
+    "all_nine_state_preview_gifs_fully_decode_with_positive_durations": true,
+    "validation_ok_without_errors_or_warnings": true,
+    "frame_inspection_ok_without_errors_or_warnings": true
+  },
+  "blockers": [],
+  "accepted_scope": [
+    "Only supplied source artwork and ordinary resizing or registration were used.",
+    "Existing v1 animation semantics and intentional costumes, props, and effects are accepted."
+  ]
+}
